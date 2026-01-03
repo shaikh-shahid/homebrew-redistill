@@ -1,12 +1,12 @@
 # Homebrew Tap for Redistill
 
-Homebrew tap for [Redistill](https://github.com/shahidshaikh/redistill) - A high-performance Redis-compatible key-value store.
+Homebrew tap for [Redistill](https://github.com/redistill-io/redistill) - A high-performance Redis-compatible key-value store.
 
 ## Installation
 
 ```bash
 # Add the tap
-brew tap shahidshaikh/redistill
+brew tap redistill-io/redistill
 
 # Install Redistill
 brew install redistill
@@ -55,7 +55,7 @@ brew upgrade redistill
 
 ```bash
 brew uninstall redistill
-brew untap shahidshaikh/redistill
+brew untap redistill-io/redistill
 ```
 
 ## License
